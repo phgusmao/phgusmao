@@ -1,7 +1,7 @@
 ### Hi there, i'm Pedro Gusmão 👋
 
-- 🔭 I'm currently internship with front-end
-- 🌱 I’m currently learning Angular and NodeJS
+- 🔭 **Working:** I'm currently internship with front-end
+- 🌱 **Learning:** I’m currently learning Angular and NodeJS
 - :man_student: **Studying:** Information Systems at [CESMAC](https://www.cesmac.edu.br/)
 - ⚡ **Fun fact:** I'm a big Harry Potter fan 🧙🏻
 
