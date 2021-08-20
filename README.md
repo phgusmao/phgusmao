@@ -3,7 +3,7 @@
 - 🔭 I'm currently internship with front-end
 - 🌱 I’m currently learning Angular and NodeJS
 - :man_student: **Studying:** Information Systems at [CESMAC](https://www.cesmac.edu.br/)
-- ⚡ **Fun fact:** I love Harry Potter 🧙🏻
+- ⚡ **Fun fact:** I'm a big Harry Potter fan 🧙🏻
 
 
 <div>
