@@ -1,9 +1,9 @@
 ### Hi there, i'm Pedro Gusmão 👋
 
 - 🔭 **Working:** I'm currently internship with front-end
-- 🌱 **Learning:** I’m currently learning ReactJS and NodeJS
+- 🌱 **Learning:** I’m currently learning ReactJS, NodeJS and RPG Maker.
 - :man_student: **Studying:** Information Systems at [CESMAC](https://www.cesmac.edu.br/)
-- ⚡ **Fun fact:** I'm a big Harry Potter fan 🧙🏻
+- ⚡ **Fun fact:** I'm a fan of Harry Potter and fantasy in general. 🧙🏻
 
 
 <div>
